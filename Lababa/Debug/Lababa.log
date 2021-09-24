@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Source1.cpp
+C:\Users\Student\source\repos\Lababa\Lababa\Source1.cpp(5,23): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  Lababa.vcxproj -> C:\Users\Student\source\repos\Lababa\Debug\Lababa.exe
